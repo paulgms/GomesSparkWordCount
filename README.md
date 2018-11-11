@@ -31,7 +31,6 @@ My data source is a wikipedia page about Bangladesh.
 
 ## Results
 
- (click "Generate" to refresh) Copy to clipboard
 | Frequency | Word        |
 |-----------|-------------|
 | 992       | the         |
@@ -54,6 +53,7 @@ My data source is a wikipedia page about Bangladesh.
 | 73        | as          |
 | 65        | Bangladeshi |
 | 56        | from        |
+
 
 The most frequest word is "the". I was expecting it to be Bangladesh. However, it's 5th in the list. My findings agree with my assumptions. Bangladesh - 242 times, Bengal - 83 times, Bengali - 76,  Bangladeshi - 65 times, are in my list (first 20).  
 
