@@ -59,5 +59,5 @@ The most frequest word is "the". I was expecting it to be Bangladesh. However, i
 
 ## Visual representation of the result
 
-![Spark word Count Chart](GomesSparkWordCount/images/wordCountChart.jpg "Spark word count chart")
+![Spark word Count Chart](images/wordCountChart.jpg "Spark word count chart")
 
